@@ -2,4 +2,9 @@ import Foundation
 
 var user = ["Josicleison":"123"]
 
-print(user["Josicleison"])
+user["Rodolfo"] = "321"
+
+for (nome,senha) in user
+{
+  print("\(nome) : \(senha)")
+}

@@ -1,6 +1,7 @@
-# FourBank
+# Exercícios no replit
 
-
+Tudo que foi exercitado no replit até o momento com base no conteúdo passado.
+Link: https://replit.com/@AudiotecaAncap/MerryMountainousTheories#main.swift
 
 ## Getting started
 
@@ -15,14 +16,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.fourcamp.com/fourcamp22/ios/grupo-3/fourbank.git
+git remote add origin https://gitlab.fourcamp.com/fourcamp22/ios/grupo-3/daniel/exercicios-no-replit.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.fourcamp.com/fourcamp22/ios/grupo-3/fourbank/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.fourcamp.com/fourcamp22/ios/grupo-3/daniel/exercicios-no-replit/-/settings/integrations)
 
 ## Collaborate with your team
 
